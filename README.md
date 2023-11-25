@@ -1,11 +1,9 @@
 # E_sun_test
-<hr/>
+
 ## 專案架構
 後端採用 SpringBoot框架開發 於Maven資料夾內  
 前端採用 Vue.js開發 於Vue資料夾內  
 資料庫使用MSSQL開發 DDL與DML於DB資料夾E_sun.sql  
-
-<hr/>
 
 ## 專案開啟步驟
 E_sun為Vue專案，請先開啟PowerShell界面先行安裝依賴  
