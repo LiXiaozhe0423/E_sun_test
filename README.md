@@ -16,7 +16,7 @@ E_sun為Vue專案，請先開啟PowerShell界面先行安裝依賴
   
 後端則採用SpringBoot做開發  
 匯入後請先更改資料庫使用人員帳號密碼  
-e_sun_test\src\main\resources\application.properties
+e_sun_test\src\main\resources\application.properties  
 第4行請輸入使用者帳號  
 地5行請輸入使用者密碼  
 完成以上步驟後開啟程式入口點  
