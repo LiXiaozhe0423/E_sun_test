@@ -11,16 +11,17 @@ E_sun為Vue專案，請先開啟PowerShell界面先行安裝依賴
 如使用node.js 請輸入 npm install  
 請輸入 npm run dev開啟專案  
 
+資料庫採用MSSQL  
+開啟E_SUN.sql檔案後執行  
+  
 後端則採用SpringBoot做開發  
 匯入後請先更改資料庫使用人員帳號密碼  
 e_sun_test\src\main\resources\application.properties
-第4行請輸入使用者帳號
-地5行請輸入使用者密碼
-開啟程式入口點  
+第4行請輸入使用者帳號  
+地5行請輸入使用者密碼  
+完成以上步驟後開啟程式入口點  
 e_sun_test\src\main\java\com\e_sun_test\ESunTestApplication.java  
   
-資料庫文件採用MSSQL  
-開啟E_SUN.sql檔案後執行  
 
 完成以上步驟請訪問
 <a>http://localhost:5173<a/>
